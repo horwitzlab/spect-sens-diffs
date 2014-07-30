@@ -35,8 +35,8 @@ experiments presented in the manuscript.
 * `monitor_spectra` - This has the same layout as above and was measured
   **without** the application of neutral density filters;
 * `scotopic_lum_eff` - The CIE scotopic luminous efficiency function;
-* `nd_transmittance` - The measured transmittance of a 1.0-log unit Kodak Wratten
-  96 neutral density filter;
+* `nd_transmittance` - The nominal transmittance of a 1.0-log unit Kodak Wratten
+  96 neutral density filter (digitized from Kodak's documentation);
 * `wavelengths` - The wavelength sampling lattice of `monitor_spectra`,
   `scotopic_lum_eff`, and `nd_transmittance`;
 * `trials` - Like the first two experiments, this struct array contains
