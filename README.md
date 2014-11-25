@@ -1,8 +1,8 @@
 ## *Spectral sensitivity differences between rhesus monkeys and humans*
-This repository contains data used in the manuscript by Lindbloom-Brown, Tait,
-and Horwitz entitled "Spectral sensitivity differences between rhesus monkeys
-and humans: Implications for neurophysiology", which is under review as of June
-2014.
+This repository contains data used in the manuscript by Lindbloom-Brown Z, Tait LJ,
+and Horwitz GD entitled "Spectral sensitivity differences between rhesus monkeys
+and humans: implications for neurophysiology", *J Neurophysiol* 112: 000-000, 2014;
+DOI: [10.1152/jn.00356.2014](http://dx.doi.org/10.1152/jn.00356.2014).
 
 Here we provide three MATLAB .mat files that contain the data from three
 experiments presented in the manuscript.
@@ -46,4 +46,4 @@ experiments presented in the manuscript.
      indicate presentation to the left of the fixation spot);
   3. `true` if the observer detected the stimulus and `false` otherwise;
   4. `1` for a green channel modulation or `2` for the blue channel;
-  5. a column index into `monitor_spectra`;
+  5. a column index into `monitor_spectra`.
