@@ -1,8 +1,9 @@
 ## *Spectral sensitivity differences between rhesus monkeys and humans*
-This repository contains data used in the manuscript by Lindbloom-Brown Z, Tait LJ,
-and Horwitz GD entitled "Spectral sensitivity differences between rhesus monkeys
-and humans: implications for neurophysiology", *J Neurophysiol* 112: 000-000, 2014;
-DOI: [10.1152/jn.00356.2014](http://dx.doi.org/10.1152/jn.00356.2014).
+This repository contains data used in the manuscript by Zachary Lindbloom-Brown,
+Leah J. Tait, Gregory D. Horwitz entitled "Spectral sensitivity differences
+between rhesus monkeys and humans: implications for neurophysiology", *Journal
+of Neurophysiology*, Dec 2014, 112 (12) 3164-3172; DOI:
+[10.1152/jn.00356.2014](http://dx.doi.org/10.1152/jn.00356.2014).
 
 Here we provide three MATLAB .mat files that contain the data from three
 experiments presented in the manuscript.
